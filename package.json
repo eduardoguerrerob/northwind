@@ -36,5 +36,9 @@
       "ui5-middleware-cfdestination",
       "ui5-task-zipper"
     ]
+  },
+  "dependencies": {
+    "@sap/approuter": "^8.5.4",
+    "@sap/html5-repo-mock": "^1.6.0"
   }
 }
